@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/caae1942-8490-4ce9-9308-67b53f37ecf3/resourceGroups/beautifulsakila_group/providers/Microsoft.Web/sites/backendsss",
+    "appService.deploySubpath": "."
+}
